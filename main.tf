@@ -1,5 +1,5 @@
 provider "google" {
-  project     = "playground-s-11-588ca877"
+  project     = "playground-s-11-6b09b6ba"
   region      = "us-central1"
 }
 
